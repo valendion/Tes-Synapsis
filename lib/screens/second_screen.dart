@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:tes_synpsis/provider/battery_info_provider.dart';
-import 'package:tes_synpsis/services/battery_info_services.dart';
 import 'package:tes_synpsis/utils/text_string.dart';
 
 import '../widget/text_battery.dart';
