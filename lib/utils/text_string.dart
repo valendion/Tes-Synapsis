@@ -16,4 +16,11 @@ class TextString {
   static const batteryHealth = 'Battery Health';
   static const batteryLevel = 'Battery Level';
   static const batteryPluggedStatus = 'Battery Plugged Status';
+
+  static const deviceInfoSOC = 'Data SOC';
+  static const deviceInfoManufacturer = 'Manufacturer';
+  static const deviceInfoModel = 'Model';
+  static const deviceInfoBuild = 'Build';
+  static const deviceInfoSdk = 'Sdk';
+  static const deviceInfoVersionCode = 'Version Code';
 }
